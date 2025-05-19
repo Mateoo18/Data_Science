@@ -6,27 +6,20 @@ Each assignment is structured as a Jupyter Notebook with clear explanations, Pyt
 
 ## 📂 Repository Structure
 
-Data_Science/
-│
-├── Exercise_1/ # Basic EDA
-├── Exercise_1_advanced/ # Advanced EDA techniques
-│
-├── Exercise_2/ # Regression modeling
-├── Exercise_2_advanced/ # Regularization, model comparison
-│
-├── Exercise_3/ # Text classification (Amazon reviews)
-├── Exercise_3_advanced/ # TF-IDF, multi-model comparison
-│
-├── Exercise_4/ # Document similarity (Wikipedia)
-├── Exercise_4_advanced/ # Clustering countries (unsupervised ML)
-│
-├── Exercise_5/ # Distribution sampling and CLT
-│
-├── Exercise_6/ # Confidence intervals and standard error
+## 📂 Repository Structure
 
-markdown
-Kopiuj
-Edytuj
+    Data_Science/
+    ├── Exercise_1/             # Basic Exploratory Data Analysis (EDA)
+    ├── Exercise_1_advanced/    # Advanced EDA techniques
+    ├── Exercise_2/             # Regression modeling (Linear Regression)
+    ├── Exercise_2_advanced/    # Regularization, model comparison (Ridge, Lasso, Random Forest)
+    ├── Exercise_3/             # Text classification on Amazon reviews (Bag-of-Words)
+    ├── Exercise_3_advanced/    # TF-IDF, multi-model evaluation (LogReg, NB, SVM, RF)
+    ├── Exercise_4/             # Document similarity (Wikipedia vectorization)
+    ├── Exercise_4_advanced/    # Clustering countries (unsupervised ML, KMeans)
+    ├── Exercise_5/             # Distribution sampling and Central Limit Theorem
+    └── Exercise_6/             # Confidence intervals and standard error
+
 
 ## ✅ Topics Covered
 
@@ -47,7 +40,6 @@ Edytuj
 - xgboost, adaboost
 - transformers
 - autoencoders
-- 
 
 ## 🚀 How to Run
 
